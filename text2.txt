@@ -1,2 +1,0 @@
-hello, this is senthil.
-created using command prompt
